@@ -1,0 +1,8 @@
+build/
+
+.pub/
+.flutter-plugins
+.idea/
+*.iml
+*.lock
+.env
